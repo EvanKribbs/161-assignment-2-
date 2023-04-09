@@ -57,7 +57,7 @@
 
 .text2 {color: blue; padding: 7px;}
 
-.container {display: flex; flex-direction: colum;background-color: gray;padding: 50px; width: 170px; height: 600px; 
+.container {display: flex; flex-direction: colum;background-color: gray;padding: 50px; width: 170px; height: 630px; 
 }
 
 .button-primary {
@@ -78,7 +78,7 @@ a:hover {
 
 .center {text-align: center; padding: 0px;}
 
-.camero {width: 450px; float: right; text-align: center; padding: 0px;}
+.camero {width: 500px; float: right; text-align: center; padding: 0px;}
 
 .button-primary2 {
   padding: 1%; 
